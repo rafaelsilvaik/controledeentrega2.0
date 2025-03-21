@@ -113,7 +113,7 @@ function App() {
         <div className="bg-white dark:bg-gray-900 rounded-lg shadow-md p-6 mb-8 print:shadow-none print:p-0">
           <div className="flex justify-between items-center mb-6 print:mb-4 print:border-b print:pb-4">
             <h1 className="text-2xl font-bold text-gray-800 dark:text-white print:text-3xl">
-              Controle de Entregas
+              Controle de Entregas Jangadeiro
             </h1>
             <div className="flex items-center gap-4">
               <ThemeToggle />
