@@ -130,7 +130,7 @@ function App() {
             <div className="bg-blue-50 dark:bg-blue-900/30 p-4 rounded-lg mb-6 print:hidden">
               <h2 className="font-semibold mb-2 dark:text-white">Instruções de Uso:</h2>
               <ul className="list-disc list-inside space-y-1 text-sm dark:text-gray-300">
-                <li>Use o formulário acima para adicionar novas entregas</li>
+                <li>Use o formulário acima para adicionar novas notas de entregas</li>
                 <li>Clique nos cabeçalhos das colunas para ordenar os dados</li>
                 <li>Use os filtros acima de cada coluna para buscar informações específicas</li>
                 <li>Entregas na Doca há mais de 5 dias são destacadas em vermelho</li>
